@@ -1,0 +1,26 @@
+{
+  "name": "CollSite",
+  "authors": [
+    "Jaya Shivani shivani.gmail.com"
+  ],
+  "description": "This is my Collaboration project",
+  "main": "",
+  "license": "mit",
+  "homepage": "index.jsp",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "lodash": "2.4.1",
+    "sockjs": "0.3.4",
+    "stomp-websocket": "2.3.4",
+    "bootstrap": "latest"
+    
+  }
+}
